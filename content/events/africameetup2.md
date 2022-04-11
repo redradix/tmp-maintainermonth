@@ -2,7 +2,7 @@
 title: 'GitHub Virtual Meetup: Africa'
 metaTitle: 'GitHub Virtual Meetup: Africa'
 metaDesc: 'Join GitHub users across Africa to talk about open source project maintainership!'
-date: 'werwre'
+date: '07/10'
 UTCStartTime: 'TBD'
 UTCEndTime: 'TBD'
 type: 'meetup'
